@@ -25,7 +25,7 @@ Based on our Power BI model:
 - **Efficiency:** We analyzed players based on Points, Assists, Rebounds, and Defensive stats (Steals/Blocks).
 
 ## 📂 Data Sources
-Data was sourced from Kaggle: [NBA 2022-2023 Advanced Boxscores](https://www.kaggle.com/datasets/szymonjwiak/nba-2022-2023-advanced-boxscores?select=games.csv)[cite: 1].
+Data was sourced from Kaggle: [NBA 2022-2023 Advanced Boxscores](https://www.kaggle.com/datasets/szymonjwiak/nba-2022-2023-advanced-boxscores?select=games.csv)
 
 ## 🛠 Tech Stack
 - **SQL (Server-side):** Data cleaning, ETL, and relational management.

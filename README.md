@@ -6,8 +6,7 @@ This project analyzes the correlation between NBA player performance and their s
 - **Team Members:** Hieu Dinh, Darren Keilty, Eddie Li
 
 ## 📽 Video Presentation & Demo
-Watch our full project walkthrough and Power BI dashboard demonstration:
-[![NBA Analytics Demo](https://youtu.be/em3CBjauJOs?si=WjOowd9WblS3g_Yk)
+Watch our full project walkthrough and Power BI dashboard demonstration:(https://youtu.be/em3CBjauJOs?si=WjOowd9WblS3g_Yk)
 
 ## 🏗 Data Architecture & SQL Integration
 A key strength of this project is the professional data handling process. We utilized a **SQL Server** hosted by the university to manage and transform raw data before visualization.
@@ -21,15 +20,15 @@ We designed a robust **Star Schema** to optimize performance and query efficienc
 
 ## 📊 Key Insights from Dashboard
 Based on our Power BI model:
-- **Positional Salary:** Point Guards (PG) account for the highest portion of annual salaries at **22.68%**[cite: 1].
-- **Team Payroll:** **LA Clippers (LAC)** ranked #1 in total team salary for the season[cite: 1].
-- **Efficiency:** We analyzed players based on Points, Assists, Rebounds, and Defensive stats (Steals/Blocks)[cite: 1].
+- **Positional Salary:** Point Guards (PG) account for the highest portion of annual salaries at **22.68%**.
+- **Team Payroll:** **LA Clippers (LAC)** ranked #1 in total team salary for the season.
+- **Efficiency:** We analyzed players based on Points, Assists, Rebounds, and Defensive stats (Steals/Blocks).
 
 ## 📂 Data Sources
 Data was sourced from Kaggle: [NBA 2022-2023 Advanced Boxscores](https://www.kaggle.com/datasets/szymonjwiak/nba-2022-2023-advanced-boxscores?select=games.csv)[cite: 1].
 
 ## 🛠 Tech Stack
-- **SQL (Server-side):** Data cleaning, ETL, and relational management[cite: 1].
-- **Power BI:** Data Modeling (DAX), Relationship management, and Visualization[cite: 1].
-- **Python (Optional):** Used for advanced statistical efficiency analysis[cite: 1].
+- **SQL (Server-side):** Data cleaning, ETL, and relational management.
+- **Power BI:** Data Modeling (DAX), Relationship management, and Visualization.
+- **Python (Optional):** Used for advanced statistical efficiency analysis.
 - **Excel/CSV:** For static data validation and local storage.

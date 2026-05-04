@@ -30,5 +30,4 @@ Data was sourced from Kaggle: [NBA 2022-2023 Advanced Boxscores](https://www.kag
 ## 🛠 Tech Stack
 - **SQL (Server-side):** Data cleaning, ETL, and relational management.
 - **Power BI:** Data Modeling (DAX), Relationship management, and Visualization.
-- **Python (Optional):** Used for advanced statistical efficiency analysis.
 - **Excel/CSV:** For static data validation and local storage.
